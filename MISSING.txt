@@ -1,0 +1,7 @@
+The following files failed to download during site export. Please check them in the designer assets view (images) or dashboard (fonts).
+
+fonts/SangBleuOGSerif-Light.otf
+fonts/SangBleuOGSerif-Medium.otf
+fonts/SharpGroteskBook21-Regular.ttf
+fonts/SharpGroteskBook25-Regular.ttf
+fonts/SharpGroteskMedium21-Regular.ttf
